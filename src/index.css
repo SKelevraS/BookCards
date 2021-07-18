@@ -1,0 +1,17 @@
+body, html {
+  margin: 50;
+  font-family: -apple-system, BlinkMacSystemFont, 'sans-serif'
+  '-webkit-font-smoothing: antialiased';
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: bisque;
+  background-image: url("../src/images/ggl-bks.jpg");
+  ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
